@@ -76,7 +76,7 @@
     "vite-plugin-inspect": "^0.8.1",
     "vite-plugin-vue-inspector": "^4.0.2",
     "which": "^3.0.1",
-    "ws": "^8.16.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@iconify-json/bxl": "^1.1.10",
