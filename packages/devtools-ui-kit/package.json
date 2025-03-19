@@ -62,7 +62,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "workspace:*",
-    "nuxt": "^3.9.1"
+    "nuxt": "^3.16.0"
   },
   "publishConfig": {
     "access": "public"
